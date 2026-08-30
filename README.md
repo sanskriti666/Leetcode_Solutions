@@ -18,6 +18,7 @@ I upload my daily leetcode questions here(if done so)
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ I upload my daily leetcode questions here(if done so)
 | [0058-length-of-last-word](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
@@ -78,4 +80,8 @@ I upload my daily leetcode questions here(if done so)
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
