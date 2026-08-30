@@ -34,6 +34,7 @@ I upload my daily leetcode questions here(if done so)
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -46,4 +47,8 @@ I upload my daily leetcode questions here(if done so)
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
