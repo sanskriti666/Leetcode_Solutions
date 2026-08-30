@@ -20,6 +20,7 @@ I upload my daily leetcode questions here(if done so)
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
