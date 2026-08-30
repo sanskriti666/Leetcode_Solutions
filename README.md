@@ -24,15 +24,18 @@ I upload my daily leetcode questions here(if done so)
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -71,4 +74,8 @@ I upload my daily leetcode questions here(if done so)
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
