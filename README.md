@@ -47,6 +47,7 @@ I upload my daily leetcode questions here(if done so)
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3871-count-commas-in-range-ii](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
 |  |
 | ------- |
