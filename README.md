@@ -28,11 +28,13 @@ I upload my daily leetcode questions here(if done so)
 | [0389-find-the-difference](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -84,4 +86,12 @@ I upload my daily leetcode questions here(if done so)
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
