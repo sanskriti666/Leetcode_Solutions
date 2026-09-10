@@ -10,6 +10,7 @@ I upload my daily leetcode questions here(if done so)
 | [0217-contains-duplicate](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -94,10 +95,19 @@ I upload my daily leetcode questions here(if done so)
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
