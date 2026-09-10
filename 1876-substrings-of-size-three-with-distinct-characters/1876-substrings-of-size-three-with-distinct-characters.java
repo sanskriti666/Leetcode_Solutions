@@ -5,9 +5,7 @@ class Solution {
         char a=s.charAt(i);
         char b=s.charAt(i+1);
         char c=s.charAt(i+2);
-        if(a!=b && a!=c && b!=c){
-            count++;
-        }
+        if(a!=b && a!=c && b!=c)count++;
        }
        return count;
     }
