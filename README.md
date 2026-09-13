@@ -21,6 +21,7 @@ I upload my daily leetcode questions here(if done so)
 | [0283-move-zeroes](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ I upload my daily leetcode questions here(if done so)
 | [0344-reverse-string](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -37,6 +39,7 @@ I upload my daily leetcode questions here(if done so)
 | ------- |
 | [0217-contains-duplicate](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
@@ -94,6 +97,7 @@ I upload my daily leetcode questions here(if done so)
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
