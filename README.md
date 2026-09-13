@@ -11,6 +11,7 @@ I upload my daily leetcode questions here(if done so)
 | [0283-move-zeroes](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -96,6 +97,7 @@ I upload my daily leetcode questions here(if done so)
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,6 +105,7 @@ I upload my daily leetcode questions here(if done so)
 | [0643-maximum-average-subarray-i](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
