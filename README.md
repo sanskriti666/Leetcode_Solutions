@@ -16,6 +16,7 @@ I upload my daily leetcode questions here(if done so)
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ I upload my daily leetcode questions here(if done so)
 | [0389-find-the-difference](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
@@ -116,6 +118,7 @@ I upload my daily leetcode questions here(if done so)
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
