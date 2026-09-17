@@ -7,6 +7,7 @@ I upload my daily leetcode questions here(if done so)
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0283-move-zeroes) |
@@ -122,6 +123,7 @@ I upload my daily leetcode questions here(if done so)
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
