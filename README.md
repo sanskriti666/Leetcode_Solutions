@@ -14,6 +14,7 @@ I upload my daily leetcode questions here(if done so)
 | [0643-maximum-average-subarray-i](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -55,6 +56,7 @@ I upload my daily leetcode questions here(if done so)
 | ------- |
 | [0217-contains-duplicate](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [0912-sort-an-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -135,4 +137,28 @@ I upload my daily leetcode questions here(if done so)
 | [0209-minimum-size-subarray-sum](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
