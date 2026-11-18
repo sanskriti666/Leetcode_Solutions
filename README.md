@@ -12,6 +12,7 @@ I upload my daily leetcode questions here(if done so)
 | [0217-contains-duplicate](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0912-sort-an-array) |
@@ -171,4 +172,12 @@ I upload my daily leetcode questions here(if done so)
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sanskriti666/Leetcode_Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
